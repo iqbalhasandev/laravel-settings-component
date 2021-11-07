@@ -6,7 +6,7 @@ Laravel's missing setting component Feature
 
 <hr/>
 
-- The service provider will automatically get registered. Or you may manually add the service provider in your config/app.php file:
+- manually add the service provider in your config/app.php file:
 
   ```
   App\Providers\SettingsProvider::class,
